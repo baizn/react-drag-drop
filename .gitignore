@@ -24,7 +24,8 @@ coverage
 build/Release
 
 # Dependency directory
-node_modules
+custorm-report/node_modules
+react-drag-demo/node_modules
 
 # Optional npm cache directory
 .npm
